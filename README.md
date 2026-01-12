@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**igrejaonline/igrejaonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=35&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=MINIST%C3%89RIO+MICHEL+BRENO;REVELA%C3%87%C3%83O+%7C+GOVERNO+%7C+SABEDORIA;TEOLOGIA+DE+ALTO+N%C3%8DVEL;IGREJA+ONLINE" alt="Typing SVG" />
@@ -27,9 +11,7 @@ Here are some ideas to get you started:
     <a href="https://www.youtube.com/@apostolomichelbreno?sub_confirmation=1">
       <img src="https://img.shields.io/badge/YOUTUBE-INSCREVA--SE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=CC0000" alt="YouTube" />
     </a>
-    <a href="https://wa.me/5561999999999"> <img src="https://img.shields.io/badge/WHATSAPP-FALE%20CONOSCO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=25D366" alt="WhatsApp" />
-    </a>
-    <a href="https://instagram.com/michelbreno">
+    <a href="https://www.instagram.com/apostolomichelbreno/">
       <img src="https://img.shields.io/badge/INSTAGRAM-SIGA-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=C13584" alt="Instagram" />
     </a>
   </p>
