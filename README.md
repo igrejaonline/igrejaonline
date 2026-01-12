@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=35&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=MINIST%C3%89RIO+MICHEL+BRENO;REVELA%C3%87%C3%83O+%7C+GOVERNO+%7C+SABEDORIA;TEOLOGIA+DE+ALTO+N%C3%8DVEL;IGREJA+ONLINE" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=35&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=MINIST%C3%89RIO+MICHEL+BRENO;REVELA%C3%87%C3%83O+%7C+GOVERNO+%7C+SABEDORIA;TEOLOGIA+DE+ALTO+N%C3%8DVEL;IGREJA+ONLINE" alt="Typing SVG" />
+  </a>
 
   <br>
 
@@ -32,26 +34,8 @@
   <hr style="border-color: #D4AF37; width: 50%;">
   <br>
 
-  <table>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=igrejaonline&show_icons=true&theme=dark&bg_color=0D1117&title_color=D4AF37&text_color=FFF&icon_color=D4AF37&border_color=D4AF37&hide_border=true" alt="Michel Stats" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=igrejaonline&theme=dark&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakNum=FFF&sideNums=FFF&currStreakLabel=D4AF37&sideLabels=D4AF37" alt="Michel Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
+  <p><b>Tecnologias do Reino:</b></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igrejaonline&layout=compact&theme=dark&bg_color=0D1117&title_color=D4AF37&text_color=FFF&hide_border=true" alt="Top Langs" />
-
-  <br><br>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=igrejaonline&theme=gitdimmed&no-frame=true&margin-w=4&no-bg=true" alt="Trophies" />
-  </a>
 
   <br><br>
 
