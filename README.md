@@ -33,19 +33,19 @@
   <hr style="border: 0.5px solid #D4AF37; width: 50%;">
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=igrejaonline&show_icons=true&theme=dark&bg_color=0D1117&title_color=D4AF37&text_color=FFF&icon_color=D4AF37&border_color=D4AF37&hide_border=false" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=igrejaonline&show_icons=true&theme=dark&bg_color=0D1117&title_color=D4AF37&text_color=FFF&icon_color=D4AF37&border_color=D4AF37&hide_border=false&v=2" width="400" />
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igrejaonline&theme=dark&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakNum=FFF&sideNums=FFF&currStreakLabel=D4AF37&sideLabels=D4AF37&border=D4AF37&hide_border=false" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igrejaonline&theme=dark&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakNum=FFF&sideNums=FFF&currStreakLabel=D4AF37&sideLabels=D4AF37&border=D4AF37&hide_border=false&v=2" width="400" />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igrejaonline&layout=compact&theme=dark&bg_color=0D1117&title_color=D4AF37&text_color=FFF&border_color=D4AF37&hide_border=false" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igrejaonline&layout=compact&theme=dark&bg_color=0D1117&title_color=D4AF37&text_color=FFF&border_color=D4AF37&hide_border=false&v=2" width="400" />
 
   <br><br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=igrejaonline&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4" width="600" />
+  <img src="https://github-profile-trophy.vercel.app/?username=igrejaonline&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4&v=2" width="600" />
 
   <br><br>
 
