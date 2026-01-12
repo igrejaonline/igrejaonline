@@ -30,10 +30,29 @@
   </a>
 
   <hr style="border-color: #D4AF37; width: 50%;">
+  <br>
+
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=igrejaonline&show_icons=true&theme=dark&bg_color=0D1117&title_color=D4AF37&text_color=FFF&icon_color=D4AF37&border_color=D4AF37&hide_border=true" alt="Michel Stats" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=igrejaonline&theme=dark&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakNum=FFF&sideNums=FFF&currStreakLabel=D4AF37&sideLabels=D4AF37" alt="Michel Streak" />
+      </td>
+    </tr>
+  </table>
 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=igrejaonline&show_icons=true&theme=dark&bg_color=0D1117&title_color=D4AF37&text_color=FFF&icon_color=D4AF37&border_color=D4AF37&hide_border=true" alt="Michel Breno Stats" />
-  
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igrejaonline&layout=compact&theme=dark&bg_color=0D1117&title_color=D4AF37&text_color=FFF&hide_border=true" alt="Top Langs" />
+
+  <br><br>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=igrejaonline&theme=gitdimmed&no-frame=true&margin-w=4&no-bg=true" alt="Trophies" />
+  </a>
+
   <br><br>
 
   <p style="font-size: 12px; color: #888;">
